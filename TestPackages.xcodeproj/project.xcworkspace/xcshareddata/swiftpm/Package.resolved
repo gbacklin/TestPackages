@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Navigator",
+        "repositoryURL": "https://github.com/gbacklin/Navigator.git",
+        "state": {
+          "branch": null,
+          "revision": "25595418ace1764986592d371484fb2877472036",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
